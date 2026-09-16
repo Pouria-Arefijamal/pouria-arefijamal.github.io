@@ -7,7 +7,7 @@ Plain static HTML/CSS/JS. No build step, no dependencies, no Jekyll.
 ## Deploy to GitHub Pages
 
 1. Create a repository named exactly **`pouria-arefijamal.github.io`** under
-   <https://github.com/pouria-arefijamal> (public).
+   <https://github.com/Pouria-Arefijamal> (public).
 2. From this folder:
 
    ```bash
